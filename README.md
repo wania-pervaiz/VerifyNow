@@ -52,15 +52,15 @@ pip install streamlit pandas scikit-learn
 
 # 💡 How to Use
 
-# Step 1: Launch the Application
+### Step 1: Launch the Application
 
 Launch the application using Streamlit.
 
-# Step 2: Enter News Text
+### Step 2: Enter News Text
 
 Paste a news article, headline, or text statement into the **Analysis Workspace**.
 
-# Step 3: Analyze the Text
+### Step 3: Analyze the Text
 
 Click **ANALYZE PATTERN** to view the classification result.
 
