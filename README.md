@@ -36,6 +36,14 @@ Pandas, RegEx
 
 ---
 
+# 📊 Dataset
+
+This project was trained using the `Fake.csv` and `True.csv` datasets.
+
+The dataset files are not included in this repository because of their large file size.
+
+---
+
 # 🚀 Getting Started Locally
 
 ### Prerequisites
@@ -69,4 +77,3 @@ Click **ANALYZE PATTERN** to view the classification result.
 # Author
 
 Wania Parvaiz
-
